@@ -1,4 +1,4 @@
-- 👋 Hi, I’m @ZanderUrquhart
+- 👋 Hi, I’m @a-urq
 - 👀 I’m interested in Meteorology, Programming, and Music.
 - 🌱 I’m currently learning C++ and React.js.
 - 💞️ I’m looking to collaborate on ...
