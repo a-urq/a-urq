@@ -1,6 +1,7 @@
 - 👋 Hi, I’m @a-urq
 - 👀 I’m interested in Meteorology, Weather Photography, and Heavy Metal Music. My current main project is an open-source radar viewer, and I plan to also make a Numerical Weather Prediction model viewer later down the line.
 - 🌱 I’m currently learning C++, GPU programming in Java (still selecting which framework), and Vue.js
+- 🧗 I'm currently getting into rock climbing. I'm working on V1 routes as of the time of writing.
 - 💞️ I’m currently collaborating on a web-based weather model viewer for the Oklahoma Weather Lab. In particular, I am working on adding a radar data display.
 - 📫 I can be best reached at amelia.r.urquhart@gmail.com. Beware, I don't check my email as often as I should.
 
