@@ -1,9 +1,12 @@
 - 👋 Hi, I’m @a-urq
-- 👀 I’m interested in Meteorology, Weather Photography, Rock Climbing, and Heavy Metal Music. My current main project is an open-source radar viewer, and I plan to also make a Numerical Weather Prediction model viewer later down the line.
+- 👀 I’m interested in Meteorology, Weather Photography, Rock Climbing, and metal music. My current main project is an open-source radar viewer, and I plan to also make a Numerical Weather Prediction model viewer later down the line.
 - 🌱 I’m currently learning C++, LWJGL, GLSL, WebGL, and Vue.js
 - 🧗 I'm currently getting into rock climbing. I'm working on 5.10a - 5.10d routes as of the time of writing.
-- 💞️ I’m currently collaborating with [Kyle Gillett](https://github.com/kylejgillett) on implementing ECAPE parcels in his sounding viewer [SounderPy](https://github.com/kylejgillett/sounderpy). I'm also collaborating on a web-based weather model viewer for the Oklahoma Weather Lab. For now, the focus is on core features, but I also hope to visualize some highly experimental parameters.
+- 💞️ I’m currently collaborating with [Kyle Gillett](https://github.com/kylejgillett) on adding more features related to Irreversible Adiabatic and Entraining parcel ascent in his sounding viewer [SounderPy](https://github.com/kylejgillett/sounderpy). I'm also collaborating on a web-based weather model viewer for the Oklahoma Weather Lab. For now, the focus is on core features, but I also hope to visualize some highly experimental parameters.
 - 📫 I can be best reached at amelia.r.urquhart@gmail.com. Beware, I don't check my email as often as I should.
+
+# Contributions
+- <a href="https://github.com/kylejgillett/sounderpy">SounderPy</a>: Contributed to the integration of <a href="https://github.com/a-urq/ecape-parcel-py">ecape_parcel_py</a>'s parcel computation logic. More contributions are ongoing.
 
 # Currently Active Personal Projects
 -   <a href="https://github.com/a-urq/ecape-parcel-py">ecape_parcel_py</a>: A Python package that computes entrainment CAPE parcels as well as irreversible adiabatic ascent parcels according to <a href="https://journals.ametsoc.org/view/journals/atsc/79/3/JAS-D-21-0118.1.xml">Peters et. al. 2022</a>. Licensed under the MIT License.
