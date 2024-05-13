@@ -2,7 +2,7 @@
 - 👀 I’m interested in Meteorology, Weather Photography, Rock Climbing, and metal music. My current main project is an open-source radar viewer, and I plan to also make a Numerical Weather Prediction model viewer later down the line.
 - 🌱 I’m currently learning C++, LWJGL, GLSL, WebGL, and Vue.js
 - 🧗 I'm currently getting into rock climbing. I'm working on 5.10a - 5.10d routes as of the time of writing.
-- 💞️ I’m currently collaborating with [Kyle Gillett](https://github.com/kylejgillett) on adding more features related to Irreversible Adiabatic and Entraining parcel ascent in his sounding viewer [SounderPy](https://github.com/kylejgillett/sounderpy). I'm also collaborating on a web-based weather model viewer for the Oklahoma Weather Lab. For now, the focus is on core features, but I also hope to visualize some highly experimental parameters.
+- 💞️ I’m currently collaborating with [Kyle Gillett](https://github.com/kylejgillett) on adding more features related to Irreversible Adiabatic and Entraining parcel ascent in his sounding viewer [SounderPy](https://github.com/kylejgillett/sounderpy). I'm also collaborating on a web-based weather model viewer for the Oklahoma Weather Lab and ECAPE parcels for [SHARPlib](https://github.com/keltonhalbert/SHARPlib/).
 - 📫 I can be best reached at amelia.r.urquhart@gmail.com. Beware, I don't check my email as often as I should.
 
 # Contributions
