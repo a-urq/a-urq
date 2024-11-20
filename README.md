@@ -2,7 +2,7 @@
 - 👀 I’m interested in meteorology, weather photography, rock climbing, and metal/hardcore punk music. My current main project is an open-source radar viewer, and I plan to also make a Numerical Weather Prediction model viewer later down the line.
 - 🌱 I’m currently learning C++ and OpenGL.
 - 🧗 I'm currently getting into rock climbing. I'm working on 5.10a - 5.10d routes as of the time of writing.
-- 💞️ I’m currently collaborating with [Kyle Gillett](https://github.com/kylejgillett) on adding more features related to Irreversible Adiabatic and Entraining parcel ascent in his sounding viewer [SounderPy](https://github.com/kylejgillett/sounderpy). I'm also collaborating on a web-based weather model viewer for the Oklahoma Weather Lab and ECAPE parcels for [SHARPlib](https://github.com/keltonhalbert/SHARPlib/).
+- 💞️ I’m currently collaborating with the Chase Archive team to produce radar images for each case submitted to the archive, and with Kelton Halbert to produce ECAPE parcels for [SHARPlib](https://github.com/keltonhalbert/SHARPlib/).
 - 📫 I can be best reached at amelia.r.urquhart@gmail.com. Beware, I don't check my email as often as I should.
 
 # Contributions
@@ -13,10 +13,8 @@
 ## Python
 -   <a href="https://github.com/a-urq/ecape-parcel-py">ecape_parcel_py</a>: A Python package that computes entrainment CAPE parcels as well as irreversible adiabatic ascent parcels according to <a href="https://journals.ametsoc.org/view/journals/atsc/79/3/JAS-D-21-0118.1.xml">Peters et. al. 2022</a>. Licensed under the MIT License.
 -   <a href="https://github.com/a-urq/ecape-parcel-py">solar_wind_archive</a>: A simple Python package that retrieves ACE solar wind data from any time between 2001 and the present. Licensed under the MIT License.
-## C++
--   <a href = "https://github.com/a-urq/amelia-skewt-cpp">Amelia SkewT</a>: A free and open-source atmospheric sounding visualizer powered by SHARPlib. Name is temporary until a better one can be found. Licensed under GPLv3.
 ## Java
--   <a href = "https://github.com/a-urq/radarview">RadarView</a>: A free and open-source radar viewing program meant to have many advanced features such as precipitation types and vertical atmospheric profiles. Performance is currently a big issue, and a major rewrite is in progress. Licensed under GPLv3.
+-   <a href = "https://github.com/a-urq/radarview">RadarView</a>: A free and open-source radar viewing program meant to have many advanced features such as precipitation types and vertical atmospheric profiles. Currently undergoing a rewrite from the ground up. Licensed under GPLv3.
 -   <a href = "https://github.com/a-urq/sounding-viewer-java">Sounding Viewer (Java)</a>: An open-source visualizer for vertical profiles ("soundings") of the atmosphere. Can be used as a GUI application, a command line tool, or as an API to display soundings as a part of your own programs. You may either use data from weather balloon launches or supply your own data to be visualized. Licensed under the MIT License.
 -   <a href="https://github.com/a-urq/ecape4j">Ecape4J</a>: A Java library that computes ECAPE values and parcel paths. Now released and ready for use. Licensed under the MIT License.
 -   <a href="https://github.com/a-urq/wx-archives">WxArchives</a>: An interface for the AWS NEXRAD Level-II archive as well as other meteorological archive data sources, such as the Iowa State Watch, Warning, and Advisory Archive. Currently in Beta. Licensed under the MIT License.
