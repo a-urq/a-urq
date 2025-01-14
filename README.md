@@ -6,7 +6,7 @@
 - 📫 I can be best reached at amelia.r.urquhart@gmail.com. Beware, I don't check my email as often as I should.
 
 # Contributions
-- [SHARPlib](https://github.com/keltonhalbert/SHARPlib/): Contributed to the integration of Peters et al. 2022 parcel computations. Contributions are currently awaiting approval.
+- [SHARPlib](https://github.com/keltonhalbert/SHARPlib/): Currently contributed to the integration of Peters et al. 2022 parcel computations, which include dry air entrainment.
 - <a href="https://github.com/kylejgillett/sounderpy">SounderPy</a>: Contributed to the integration of <a href="https://github.com/a-urq/ecape-parcel-py">ecape_parcel_py</a>'s parcel computation logic. More contributions are ongoing.
 
 # Currently Active Personal Projects
