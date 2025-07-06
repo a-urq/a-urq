@@ -1,12 +1,12 @@
-- 👋 Hi, I’m @a-urq
+- 👋 Hi, I’m Amelia Urquhart @a-urq!
 - 👀 I’m interested in meteorology, astronomy, weather photography, rock climbing, and metal/hardcore punk music. My current main project is an open-source radar viewer, and I plan to also make a Numerical Weather Prediction model viewer later down the line.
-- 🌱 I’m currently learning C++ and OpenGL, as well as optics concepts such as Fraunhofer Diffraction.
+- 🌱 I’m currently learning C++ and OpenGL, as well as optics concepts such as Fraunhofer diffraction and Fourier optics.
 - 🧗 I'm currently getting into astrophotography. I've made images of many nebulae and a few galaxies outside our own, up to 21.6 million light years away.
 - 💞️ I’m currently collaborating with the Chase Archive team to produce radar and satellite loops for each case submitted to the archive, and with Kelton Halbert to produce ECAPE parcels for [SHARPlib](https://github.com/keltonhalbert/SHARPlib/).
 - 📫 I can be best reached at amelia.r.urquhart@gmail.com. Beware, I don't check my email as often as I should.
 
 # Contributions
-- Currently contributing radar and satellite plots (not yet deployed at time of writing) for the [Chase Archive](https://app.chasearchive.com/).
+- Radar and satellite plots for the [Chase Archive](https://app.chasearchive.com/), which can be viewed in the Radar & Sat tab on specific storm chase case files such as [this](https://app.chasearchive.com/?q=2025&h=0d97a548aadf41675845e2fb01a347b5&s=0d97a548aadf41675845e2fb01a347b5).
 - [SHARPlib](https://github.com/keltonhalbert/SHARPlib/): Currently contributing to the integration of Peters et al. 2022 parcel computations, which include dry air entrainment.
 - <a href="https://github.com/kylejgillett/sounderpy">SounderPy</a>: Contributed to the integration of <a href="https://github.com/a-urq/ecape-parcel-py">ecape_parcel_py</a>'s parcel computation logic. More contributions are ongoing.
 
