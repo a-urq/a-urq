@@ -8,7 +8,7 @@
 # Contributions
 - Radar and satellite loops for the [Storm Chase Archive](https://app.chasearchive.com/), which can be viewed in the Radar & Sat tab included with priority cases such as [this](https://app.chasearchive.com/?q=2025&h=0d97a548aadf41675845e2fb01a347b5&s=0d97a548aadf41675845e2fb01a347b5).
 - [SHARPlib](https://github.com/keltonhalbert/SHARPlib/): Currently contributing to the integration of Peters et al. 2022 parcel computations, which include dry air entrainment.
-- <a href="https://github.com/kylejgillett/sounderpy">SounderPy</a>: Contributed to the integration of <a href="https://github.com/a-urq/ecape-parcel-py">ecape_parcel_py</a>'s parcel computation logic. More contributions are ongoing.
+- <a href="https://github.com/kylejgillett/sounderpy">SounderPy</a>: Contributed to the integration of <a href="https://github.com/a-urq/ecape-parcel-py">ecape_parcel_py</a>'s parcel computation logic.
 
 # Currently Active Personal Projects
 ## Python
