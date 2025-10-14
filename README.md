@@ -13,7 +13,7 @@
 # Currently Active Personal Projects
 ## Python
 -   ⭐ <a href="https://github.com/a-urq/ecape-parcel-py">ecape_parcel_py</a>: A Python package that computes entrainment CAPE parcels as well as irreversible adiabatic ascent parcels according to <a href="https://journals.ametsoc.org/view/journals/atsc/79/3/JAS-D-21-0118.1.xml">Peters et. al. 2022</a>. Licensed under the MIT License.
--   <a href="https://github.com/a-urq/ecape-parcel-py">solar_wind_archive</a>: A simple Python package that retrieves ACE solar wind data from any time between 2001 and the present. Licensed under the MIT License.
+-   <a href="https://github.com/a-urq/solar_wind_archive">solar_wind_archive</a>: A simple Python package that retrieves ACE solar wind data from any time between 2001 and the present. Licensed under the MIT License.
 ## Java
 -   ⭐ <a href = "https://github.com/a-urq/radarview">RadarView</a>: A free and open-source radar viewing program meant to have many advanced features such as precipitation types and vertical atmospheric profiles. Currently undergoing a rewrite from the ground up. Licensed under GPLv3.
 -   ⭐ <a href = "https://github.com/a-urq/sounding-viewer-java">Sounding Viewer</a>: An open-source visualizer for vertical profiles ("soundings") of the atmosphere. Can be used as a GUI application, a command line tool, or as an API to display soundings as a part of your own programs. You may either use data from weather balloon launches or supply your own data to be visualized. Licensed under the MIT License.
