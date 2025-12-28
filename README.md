@@ -12,6 +12,7 @@
 
 # Currently Active Personal Projects
 ## Python
+-   ⭐ <a href="https://github.com/a-urq/ml-ci-py">ml-ci-py</a>: A Python package that nowcasts the near-term probability that convective initiation will occur using machine learning techniques. Licensed under GPL-3.0.
 -   ⭐ <a href="https://github.com/a-urq/ecape-parcel-py">ecape_parcel_py</a>: A Python package that computes entrainment CAPE parcels as well as irreversible adiabatic ascent parcels according to <a href="https://journals.ametsoc.org/view/journals/atsc/79/3/JAS-D-21-0118.1.xml">Peters et. al. 2022</a>. Licensed under the MIT License.
 -   <a href="https://github.com/a-urq/solar_wind_archive">solar_wind_archive</a>: A simple Python package that retrieves ACE solar wind data from any time between 2001 and the present. Licensed under the MIT License.
 ## Java
