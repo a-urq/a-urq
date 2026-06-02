@@ -1,8 +1,8 @@
 - 👋 Hi, I’m Amelia Urquhart @a-urq!
-- 👀 I’m interested in meteorology, astronomy, weather photography, rock climbing, and metal/hardcore punk music. My current main project is an open-source radar viewer, and I plan to also make a Numerical Weather Prediction model viewer later down the line.
+- 👀 I’m interested in meteorology, astronomy, weather photography, rock climbing, and metal/hardcore punk music. My current main project is an open-source radar viewer, and I'm also working on a Skew-T visualizer as well as an ensemble-based severe weather forecasting suite.
 - 🌱 I’m currently learning C++ and OpenGL. I'm also hard at work refining my synoptic and mesoscale forecasting skills.
 - 🧗 I'm currently getting into astrophotography. I've made images of many nebulae and a few galaxies outside our own, up to 21.6 million light years away.
-- 💞️ I’m currently collaborating with the Chase Archive team to produce radar and satellite loops for each case submitted to the archive, and with Kelton Halbert to produce ECAPE parcels for [SHARPlib](https://github.com/keltonhalbert/SHARPlib/).
+- 💞️ I’m currently collaborating with the Chase Archive team to produce radar and satellite loops for each case submitted to the archive.
 - 📫 I can be best reached at amelia.r.urquhart@gmail.com.
 
 # Contributions
